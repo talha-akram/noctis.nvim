@@ -1,5 +1,7 @@
 # Noctis.nvim
 
+Neovim port of Noctis themes, with support for treesitter.
+
 From the official [README.md](https://github.com/liviuschera/noctis/blob/master/README.md):
 
 Noctis is a collection of light & dark themes with a well balanced blend of warm and cold **medium contrast** colors.
