@@ -49,7 +49,7 @@ return {
       MoreMsg                     = { fg=palette.blue,       bg=palette.none, bold=true },
       IncSearch                   = { fg=palette.none,       bg=palette.none, reverse=true },
       Search                      = { fg=palette.bg0,        bg=palette.red },
-      MatchParen                  = { fg=palette.none,       bg=palette.none, reverse=true },
+      MatchParen                  = { fg=palette.none,       bg=palette.none, underline=true },
       NonText                     = { fg=palette.grey,       bg=palette.none },
       Pmenu                       = { fg=palette.fg,         bg=palette.bg2 },
       PmenuSbar                   = { fg=palette.none,       bg=palette.bg2 },
