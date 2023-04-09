@@ -238,6 +238,8 @@ return {
       GitSignsDeleteNr            = { fg=palette.red },
       GitSignsDeletePreview       = { link='DiffDelete' },
       GitSignsDeleteVirtLn        = { link='DiffDelete' },
+
+      TelescopeMatching           = { bold=true },
     }
 
     for group, config in pairs(highlight_groups) do
