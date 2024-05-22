@@ -24,6 +24,9 @@ local palette = {
   none          = 'NONE',
 };
 
+vim.opt.background = 'light'
+vim.g.colors_name = 'noctis_lux'
+
 colorscheme.from_palette(palette, {
   Type             = { fg=palette.blue,       bold=true },
   Include          = { fg=palette.red,        bold=true },
