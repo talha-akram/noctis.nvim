@@ -24,6 +24,9 @@ local palette = {
   none          = 'NONE',
 };
 
+vim.opt.background = 'dark'
+vim.g.colors_name = 'noctis_bordo'
+
 colorscheme.from_palette(palette, {
   Type             = { fg=palette.blue,       bold=true },
   Include          = { fg=palette.red,        bold=true },
