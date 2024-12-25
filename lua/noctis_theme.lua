@@ -129,6 +129,8 @@ return {
       Boolean                     = { fg=palette.purple,     bg=palette.none },
       Number                      = { fg=palette.purple,     bg=palette.none },
       Float                       = { fg=palette.purple,     bg=palette.none },
+      NormalFloat                 = { link='Pmenu' },
+      FloatBorder                 = { link='Pmenu' },
       PreProc                     = { fg=palette.purple,     bg=palette.none, italic=true },
       PreCondit                   = { fg=palette.purple,     bg=palette.none, italic=true },
       Include                     = { fg=palette.purple,     bg=palette.none, italic=true },
