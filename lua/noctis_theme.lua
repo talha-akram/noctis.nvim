@@ -51,6 +51,7 @@ return {
       Search                      = { fg=palette.bg0,        bg=palette.red },
       MatchParen                  = { fg=palette.none,       bg=palette.none, bold=true, underline=true },
       NonText                     = { fg=palette.grey,       bg=palette.none },
+      NvimInternalError           = { fg=palette.red,        bg=palette.none, bold=true },
       Pmenu                       = { fg=palette.fg,         bg=palette.bg2 },
       PmenuSbar                   = { fg=palette.none,       bg=palette.bg2 },
       PmenuThumb                  = { fg=palette.none,       bg=palette.grey },
